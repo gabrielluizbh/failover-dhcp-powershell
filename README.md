@@ -1,4 +1,4 @@
-# Script de instalação da Função de DHCP e Configuração do Failover DCHP.
+# Script de Instalação da Função de DHCP e Configuração do Failover DCHP.
 
 Conteúdo:
 
