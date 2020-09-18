@@ -2,7 +2,7 @@
 
 Conteúdo:
 
-Script de instalação da Função de DHCP e Configuração do Failover DHCP.ps1
+Script de Instalação da Função de DHCP e Configuração do Failover DHCP.ps1
 
 Para maior entendimento para execução do script acesse o link do artigo: http://gabrielluiz.com/2020/09/dhcp-failover-powershell
 
